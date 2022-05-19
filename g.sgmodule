@@ -3,5 +3,5 @@
 #!system=mac
 
 [Rule]
-SRC-IP,192.168.7.103,Gamer
-SRC-IP,192.168.7.107,Gamer
+SRC-IP,192.168.7.103,Playstation
+SRC-IP,192.168.7.107,Switch
