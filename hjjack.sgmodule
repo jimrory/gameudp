@@ -1,4 +1,4 @@
-#!name=Google Home Devices
+#!name=hijack
 #!desc=Let Surge handle requests sent by Google Home devices. Only useful if Surge Mac acts the router for these devices.
 #!system=mac
 
