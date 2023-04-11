@@ -1,1 +1,5 @@
+#!name=Block HTTP3/QUIC
+#!desc=Block googlevideo UDP traffics.
+
+[Rule]
 AND,((PROTOCOL,UDP),(DOMAIN-SUFFIX,googlevideo.com)),REJECT-NO-DROP
