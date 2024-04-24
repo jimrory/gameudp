@@ -1,4 +1,3 @@
-# > Exchange
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,bibox.com
 DOMAIN-SUFFIX,bitfinex.com
@@ -34,7 +33,6 @@ DOMAIN-SUFFIX,zkscan.io
 DOMAIN-SUFFIX,zksync.io
 DOMAIN-SUFFIX,boba.network
 
-# > Binance
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.com
