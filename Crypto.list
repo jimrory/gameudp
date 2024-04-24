@@ -1,3 +1,43 @@
+# > Forum
+DOMAIN-SUFFIX,bitcointalk.org
+
+# > Exchange
+DOMAIN-SUFFIX,aex.com
+DOMAIN-SUFFIX,bibox.com
+DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bithumb.com
+DOMAIN-SUFFIX,bitmex.com
+DOMAIN-SUFFIX,bitstamp.net
+DOMAIN-SUFFIX,bittrex.com
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,coincheck.com
+DOMAIN-SUFFIX,coinone.co.kr
+DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,korbit.co.kr
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,liquid.com
+DOMAIN-SUFFIX,poloniex.com
+DOMAIN-SUFFIX,bitbank.cc
+DOMAIN-SUFFIX,bitcoin.org
+DOMAIN-SUFFIX,bitquick.co
+DOMAIN-SUFFIX,btcbox.co.jp
+DOMAIN-SUFFIX,cex.io
+DOMAIN-SUFFIX,dogecoin.com
+DOMAIN-SUFFIX,paxful.com
+DOMAIN-SUFFIX,tether.to
+DOMAIN-SUFFIX,dydx.exchange
+DOMAIN-SUFFIX,solana.com
+DOMAIN-SUFFIX,avax.network
+DOMAIN-SUFFIX,optimism.io
+DOMAIN-SUFFIX,arbitrum.io
+DOMAIN-SUFFIX,poly.network
+DOMAIN-SUFFIX,zkscan.io
+DOMAIN-SUFFIX,zksync.io
+DOMAIN-SUFFIX,boba.network
+
+# > Binance
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.com
@@ -35,9 +75,3 @@ DOMAIN-SUFFIX,bsc.getblock.io
 DOMAIN-SUFFIX,bscscan.com
 PROCESS-NAME,Binance.exe
 DOMAIN-KEYWORD,binance
-
-DOMAIN-SUFFIX,gate.ac
-DOMAIN-SUFFIX,gate.io
-DOMAIN-SUFFIX,mdex.com
-DOMAIN-SUFFIX,mdex.me
-DOMAIN-SUFFIX,1inch.io
