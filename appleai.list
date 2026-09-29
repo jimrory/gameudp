@@ -1,0 +1,5 @@
+# > Apple Maps and AI
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN-SUFFIX,ls.apple.com
